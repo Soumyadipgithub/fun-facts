@@ -27,4 +27,4 @@ To run this project locally:
 
 1. Clone this repository
 ```bash
-git clone https://github.com/[YOUR-USERNAME]/[YOUR-REPO-NAME].git
+git clone https://github.com/Soumyadipgithub/fun-facts.git
