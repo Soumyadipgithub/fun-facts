@@ -19,7 +19,7 @@ A simple, interactive web application that displays random personal facts. Users
 
 ## Live Demo
 
-Visit the live site at: https://[YOUR-USERNAME].github.io/[YOUR-REPO-NAME]
+Visit the live site at: https://soumyadipgithub.github.io/fun-facts/
 
 ## Installation
 
